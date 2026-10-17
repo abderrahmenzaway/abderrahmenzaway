@@ -4,7 +4,7 @@ Final-year engineering student at **ENSEEIHT (INP Toulouse)**, also following th
 
 I develop embedded software in C/C++ on ARM (bare-metal, real-time, embedded Linux) and I also build AI tools in Python. Everything I build gets tested on real hardware or real data.
 
-🔎 **Looking for a 6-month end-of-studies internship from February/March 2027** in embedded software.
+🔎 **Looking for a 6-month end-of-studies internship  2027** in embedded software.
 
 📫 [LinkedIn](https://linkedin.com/in/abderrahmen-zaway-876b4427a) · abderrahmen.zaouay@etu.inp-n7.fr
 
