@@ -16,7 +16,7 @@ I develop embedded software in C/C++ on ARM (bare-metal, real-time, embedded Lin
 | [Autonomous Maze Robot](https://github.com/abderrahmenzaway/maze-vision-robot) | Maze navigation and camera cube counting (OpenCV, frame-to-frame tracking), Raspberry Pi and Arduino over custom UART | Python, OpenCV, C++, embedded Linux |
 | [Clinical QA with RAG](https://github.com/abderrahmenzaway/clinical-qa-flan-t5) | Flan-T5 + retrieval that answers clinical cases, ROUGE-L 11.37 (+47% over baseline) | PyTorch, Hugging Face |
 | SmartFleet *(repo coming soon)* | AI agent that plans a day of deliveries and reroutes urgent orders (VRP) | Python, OR-Tools |
-| [WIE Empower](https://github.com/abderrahmenzaway/wie_empower) | 3rd place, WIE Empower national hackathon | Python |
+| [Smart Irrigation with AI](https://github.com/abderrahmenzaway/wie_empower) | Arduino + ESP8266 sensors, Raspberry Pi server and a Random Forest model that decides how long to water. 3rd place, WIE Empower national hackathon | Python, scikit-learn, Arduino, Raspberry Pi |
 
 ## Experience
 
