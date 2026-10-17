@@ -12,7 +12,7 @@ I develop embedded software in C/C++ on ARM (bare-metal, real-time, embedded Lin
 
 | Project | What it is | Tech |
 |---|---|---|
-| [Flash: Custom Line Follower](https://github.com/abderrahmenzaway/flash-line-follower) | Competition robot (team of 2): PD line control, encoder turns, per-competition mission programs, voice control app, own PCB and 3D design. 1st place at ENSTAB, ENIM and ENIG (2025) | C++, Arduino Mega 2560 Pro |
+| [Custom Line Follower Robot](https://github.com/abderrahmenzaway/flash-line-follower) | Competition robot: PD line control, encoder turns, per-competition mission programs, voice control app, own PCB and 3D design. 1st place at ENSTAB, ENIM and ENIG (2025) | C++, Arduino Mega 2560 Pro |
 | Maze Vision Robot *(repo coming soon)* | Autonomous maze navigation and colour detection, Raspberry Pi and Arduino over custom UART | Python, OpenCV, C++, embedded Linux |
 | [Clinical QA with RAG](https://github.com/abderrahmenzaway/clinical-qa-flan-t5) | Flan-T5 + retrieval that answers clinical cases, ROUGE-L 11.37 (+47% over baseline) | PyTorch, Hugging Face |
 | SmartFleet *(repo coming soon)* | AI agent that plans a day of deliveries and reroutes urgent orders (VRP) | Python, OR-Tools |
