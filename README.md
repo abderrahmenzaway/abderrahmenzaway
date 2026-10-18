@@ -4,7 +4,7 @@ Final-year engineering student at **ENSEEIHT (INP Toulouse)**, also following th
 
 I develop embedded software in C/C++ on ARM (bare-metal, real-time, embedded Linux) and I also build AI tools in Python. Everything I build gets tested on real hardware or real data.
 
-🔎 **Looking for a 6-month end-of-studies internship  2027** in embedded software.
+🔎 **Looking for a 6-month end-of-studies internship from February/March 2027** in embedded software.
 
 📫 [LinkedIn](https://linkedin.com/in/abderrahmen-zaway-876b4427a) · abderrahmen.zaouay@etu.inp-n7.fr
 
@@ -12,16 +12,16 @@ I develop embedded software in C/C++ on ARM (bare-metal, real-time, embedded Lin
 
 | Project | What it is | Tech |
 |---|---|---|
-| [Custom Line Follower Robot](https://github.com/abderrahmenzaway/flash-line-follower) | Competition robot: PD line control, encoder turns, per-competition mission programs, voice control app, own PCB and 3D design. 1st place at ENSTAB, ENIM and ENIG (2025) | C++, Arduino Mega 2560 Pro |
-| [Autonomous Maze Robot](https://github.com/abderrahmenzaway/maze-vision-robot) | Maze navigation and camera cube counting (OpenCV, frame-to-frame tracking), Raspberry Pi and Arduino over custom UART | Python, OpenCV, C++, embedded Linux |
+| [Custom Line Follower Robot](https://github.com/abderrahmenzaway/flash-line-follower) | Competition robot: PD line control, encoder turns, per-competition mission programs, voice control app, own board design (hand-soldered on perfboard) and 3D design. 1st place at ENSTAB, ENIM and ENIG (2025) | C++, Arduino Mega 2560 Pro |
+| [Autonomous Maze Robot](https://github.com/abderrahmenzaway/maze-vision-robot) | Maze navigation and camera cube counting (OpenCV, frame-to-frame tracking), Raspberry Pi (vision) and Arduino (sensors and motors) over UART | Python, OpenCV, C++, embedded Linux |
 | [Clinical QA with RAG](https://github.com/abderrahmenzaway/clinical-qa-flan-t5) | Flan-T5 + retrieval that answers clinical cases, ROUGE-L 11.37 (+47% over baseline) | PyTorch, Hugging Face |
 | SmartFleet *(repo coming soon)* | AI agent that plans a day of deliveries and reroutes urgent orders (VRP) | Python, OR-Tools |
 | [Smart Irrigation with AI](https://github.com/abderrahmenzaway/wie_empower) | Arduino + ESP8266 sensors, Raspberry Pi server and a Random Forest model that decides how long to water. 3rd place, WIE Empower national hackathon | Python, scikit-learn, Arduino, Raspberry Pi |
 
 ## Experience
 
-- **Embedded Software Engineer Intern, Maker Skills** (2026): fail-safe bootloader for space applications on the Zynq UltraScale+ MPSoC. Modified FSBL so the Cortex-R5 loads the FPGA and the application; 50 boot cycles validated, including a corrupted application. *Company code, not public.*
-- **Software Engineering Intern, IF Begin Agency** (2025): Python tool (OCR, NLP, Flask, MySQL) that extracts candidate data from CVs in any format. *Company code, not public.*
+- **Embedded Software Engineer Intern, Maker Skills** (2026): fail-safe bootloader for space applications on the Zynq UltraScale+ MPSoC. Modified FSBL so the Cortex-R5 loads the FPGA and the application; 50 boot cycles validated, including a corrupted application. [Code](https://github.com/abderrahmenzaway/zynq-fail-safe-bootloader)
+- **Software Engineering Intern, IF Begin Agency** (2025): Python tool (OCR, NLP, Flask, MySQL) that extracts candidate data from CVs in any format. [Code](https://github.com/abderrahmenzaway/cv_parser)
 
 ## Skills
 
